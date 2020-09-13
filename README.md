@@ -1,4 +1,4 @@
-[The end result of Amazon-clone](https://clone-e0df5.web.app)
+- [Demo App link](https://clone-e0df5.web.app)
 
 # Amazon clone
 - Context API (Datalayer)
